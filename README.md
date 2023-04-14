@@ -19,6 +19,8 @@ The files used in the project:
 * washington.csv
 * new_york_city.csv
 
+_Note_: The `washington.csv` file doesn't not contain Gender or Birth Year data.
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
